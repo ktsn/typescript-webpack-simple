@@ -29,6 +29,7 @@ module.exports = {
     ]
   },
   ts: {
+    logLevel: 'warn',
     appendTsSuffixTo: [/\.vue$/]
   },
   vue: {
